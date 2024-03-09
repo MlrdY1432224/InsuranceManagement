@@ -8,7 +8,7 @@ node{
         mavenCMD = "${mavenHome}/bin/mvn"
         tag="3.0"
 	dockerHubUser="mlrdy"
-	containerName="National-Insurance"
+	containerName="national-insurance"
 	httpPort="8081"
     }
     
